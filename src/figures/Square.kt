@@ -27,5 +27,8 @@ class Square: Drawable, Describable{
         if (option!= null){
             this.side=option
         }
+        else if(option== null){
+            this.side=0
+        }
     }
 }

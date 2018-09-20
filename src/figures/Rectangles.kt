@@ -29,11 +29,17 @@ class Rectangles: Drawable, Describable{
         if (inputHeight!= null){
             this.height=inputHeight
         }
+        else if (inputHeight== null){
+            this.height=0
+        }
         println("Ingrese el ancho del rectangulo")
         //Para revisar que el input no sea una letra
         val inputWidth= readLine()!!.toIntOrNull()
         if (inputWidth!= null){
             this.width=inputWidth
+        }
+        else if (inputWidth== null){
+            this.width=0
         }
     }
 

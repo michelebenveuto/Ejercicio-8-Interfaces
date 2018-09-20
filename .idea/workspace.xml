@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c203433b-d056-44b8-9228-f845700f72c1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behaviors/Describable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behaviors/Drawable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures/Rectangles.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures/Square.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures/triangle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figures/Rectangles.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures/Rectangles.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figures/Square.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures/Square.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figures/triangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures/triangle.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Square.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Square.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/figures/Square.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            <state relative-caret-position="238">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="31" selection-end-column="9" />
               <folding>
                 <element signature="e#17#71#0" expanded="true" />
               </folding>
@@ -54,8 +49,8 @@
       <file leaf-file-name="triangle.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/figures/triangle.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="255">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="e#17#71#0" expanded="true" />
               </folding>
@@ -66,8 +61,8 @@
       <file leaf-file-name="Rectangles.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/figures/Rectangles.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="340">
+              <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
               <folding>
                 <element signature="e#17#71#0" expanded="true" />
               </folding>
@@ -75,10 +70,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="108">
               <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
             </state>
           </provider>
@@ -102,14 +97,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/Behaviors/Describable.kt" />
         <option value="$PROJECT_DIR$/src/Behaviors/Drawable.kt" />
+        <option value="$PROJECT_DIR$/src/Main.kt" />
         <option value="$PROJECT_DIR$/src/figures/triangle.kt" />
         <option value="$PROJECT_DIR$/src/figures/Rectangles.kt" />
-        <option value="$PROJECT_DIR$/src/Main.kt" />
         <option value="$PROJECT_DIR$/src/figures/Square.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -236,8 +231,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -271,23 +265,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/figures/Rectangles.kt">
+    <entry file="file://$PROJECT_DIR$/src/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="e#17#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/figures/Square.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-          <folding>
-            <element signature="e#17#71#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="108">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -298,6 +279,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/figures/triangle.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="e#17#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Behaviors/Describable.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -305,20 +296,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/figures/triangle.kt">
+    <entry file="file://$PROJECT_DIR$/src/figures/Rectangles.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="340">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
           <folding>
             <element signature="e#17#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.kt">
+    <entry file="file://$PROJECT_DIR$/src/figures/Square.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        <state relative-caret-position="238">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="e#17#71#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

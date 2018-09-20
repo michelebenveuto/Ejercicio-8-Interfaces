@@ -17,6 +17,9 @@ class triangle: Drawable, Describable{
         if (inputHeight!= null){
             this.height=inputHeight
         }
+        else if (inputHeight== null){
+            this.height=0
+        }
 
     }
 
